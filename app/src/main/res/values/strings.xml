@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ViewPager Cards</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit.  Etiam eget ligula eu lectus lobortis condimentum.</string>
+</resources>
